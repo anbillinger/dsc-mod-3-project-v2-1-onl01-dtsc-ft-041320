@@ -18,9 +18,9 @@ By Alex Billinger
 * presentation_video_3 - video and audio presentation
 
 ### Data Files:
-cleaned.csv - data after removing NaNs, dropping duplicate columns, and treating outliers
-labels.csv - target data, notably including a column of target values translated from strings to numeric values
-ohe.csv - one-hot encoded data, ready for modeling
-Test_Values.csv - test data (no target labels) from competition, not used in this repo
-Train_Labels.csv - target label data, before cleaning
-Train_Values.csv - feature data, before cleaning
+* cleaned.csv - data after removing NaNs, dropping duplicate columns, and treating outliers
+* labels.csv - target data, notably including a column of target values translated from strings to numeric values
+* ohe.csv - one-hot encoded data, ready for modeling
+* Test_Values.csv - test data (no target labels) from competition, not used in this repo
+* Train_Labels.csv - target label data, before cleaning
+* Train_Values.csv - feature data, before cleaning
